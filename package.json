@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "node": "^15.4.0"
+  },
+  "name": "node-first-app",
+  "version": "1.0.0",
+  "description": "First test server",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "deathrax769"
+  },
+  "author": "Rahul choudhary",
+  "license": "ISC"
+}
